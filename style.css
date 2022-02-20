@@ -1,0 +1,37 @@
+*{
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    width:700px ;
+    height:800px;
+    margin: 0px auto;
+
+}
+
+.outer h1{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.profile{
+    position: absolute;
+    top: 35px;
+    right: 425px;
+    width: 150px;
+    border-radius: 50%;
+    
+    
+}
+p{
+    size: 20px;
+}
+.border{
+    align-items: center;
+    width: 100%;
+    padding: 4px;
+    background-color: rgb(151, 151, 151);
+    border: 1px solid black;
+    font-weight: bold;
+}
